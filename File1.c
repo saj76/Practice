@@ -2,6 +2,10 @@
 
 #include <stdio.h>
 
+int foo1(){
+	
+}
+
 int main(){
 	
 	int a = 1;
