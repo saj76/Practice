@@ -2,7 +2,12 @@
 
 #include <stdio.h>
 
+
 int foo2(){
+
+}
+
+int foo1(){
 	
 }
 
